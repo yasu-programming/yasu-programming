@@ -93,3 +93,5 @@ AI API を組み合わせた機能開発まで取り組んでいます。
 
 ## 📫 Contact
 - GitHub: https://github.com/yasu-programming
+- Mail: yasu.programming@gmail.com
+- Portfolio: https://yasunori-portfolio.vercel.app/
