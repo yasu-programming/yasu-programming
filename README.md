@@ -1,32 +1,31 @@
-# Yasunori
-エージェントサービスで事業価値を出すことにこだわる、プロダクト志向のソフトウェアエンジニア。
+# Profile
+ソフトウェアエンジニア / Web・AIアプリケーション開発
 
-## できること
-- ビジネス目標に沿ったAI/エージェント機能の設計・実装・運用
-- あいまいな要求を分解し、計測可能な成果に落とし込む
-- 自動化と整備された開発フローで、安定したリリースを支える
+Laravel・Vue.js を中心に、Webアプリケーション開発から  
+AI API を組み合わせた機能開発まで取り組んでいます。  
+最近は音声生成・動画自動化・エージェント開発など、  
+個人プロジェクトを通して技術領域を広げています。
 
-## スキル
-- **言語:** HTML/CSS (4-5年), JavaScript (4-5年), PHP (4-5年), Python (1-2年), Java (<1年)
-- **フレームワーク/プラットフォーム:** Laravel (2-3年; 最も得意で案件歓迎), Vue.js (2-3年), Node.js (1-2年), FastAPI (1-2年), Google Apps Script (1-2年), SCSS (2-3年), WordPress (3-4年), Spring Boot (<1年)
-- **バックエンド/インフラ:** MySQL (3-4年), API設計、認証、ジョブ/キュー処理、監視・ロギング、性能改善
-- **ツール/クラウド:** Git/GitHub (各3-4年), AWS (2-3年), Azure (<1年)
-- **AI/エージェント:** LLMオーケストレーション、ツール利用設計、プロンプト/ガードレール設計、ベクター検索
+---
 
-## 実績例
-- **エージェント機能実装:** 既存SaaSに組み込み、オンボーディング/問い合わせ対応を自動化。解決率と初回応答時間を指標化し、デプロイ後に30%改善。
-- **データ活用基盤:** ETLとベクトルインデックスで社内ナレッジ検索を高速化し、精度と利用率をダッシュボードで可視化。
-- **DX/効率化:** テスト・ビルド自動化とPRテンプレート/ヘルスチェック導入でリリースリードタイムを短縮。
+## 🛠 Skills
+- **Languages:** PHP, JavaScript, Python, HTML/CSS  
+- **Frameworks:** Laravel, Vue.js, Node.js, NestJS, FastAPI  
+- **Frontend:** Vue.js / Inertia / SPA 開発  
+- **Backend:** API 開発, 認証, DB 設計, バッチ処理  
+- **Infrastructure:** Docker, AWS(EC2/S3/Lambda)  
+- **Tools:** GitHub, GitHub Actions, OpenAI API, Google Apps Script  
+- **AI / LLM:** API 連携、プロンプト設計、Embeddings、音声生成、動画生成
 
-## 強み
-- **価値ドリブン:** 指標を置き、仮説→実装→検証を短サイクルで回す
-- **全体設計:** 要件・データ・運用をつなげ、壊れにくい仕組みを作る
-- **安定配信:** 小さなPR、段階リリース、ロールバック戦略を重視
+---
 
-## 働き方
-- 課題分解とスコープ明確化、リスク/計測方法を先に定義
-- ドキュメントとテストを並走させ、再現性と引き継ぎやすさを確保
-- コミュニケーションコストを下げる自動化を積極的に導入
+## 🧩 What I'm working on
+- Laravel / Next.js / NestJS を組み合わせた Web アプリの開発  
+- OpenAI API を利用した英会話アプリ・音声生成ツール  
+- CSV から動画を生成する自動化ツール  
+- Podcast 配信などの個人クリエイティブ活動
 
-## Contact
-- GitHub: [https://github.com/yasu-programming](https://github.com/yasu-programming)
+---
+
+## 📫 Contact
+- GitHub: https://github.com/yasu-programming
