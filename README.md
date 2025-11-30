@@ -12,9 +12,9 @@ AI API を組み合わせた機能開発まで取り組んでいます。
 
 ### Languages / Frameworks / Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nodejs,python,fastapi,html,css,scss" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,nodejs,python,pytorch,fastapi,html,css,scss" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,githubactions,linux,vscode,figma,ai,md,mysql,next.js,react,nginx,notion,npm,postman,pug,tailwind,vercel,vim,wordpress,xd" />
 </p>
 
 ---
