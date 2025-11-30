@@ -10,11 +10,29 @@ AI API を組み合わせた機能開発まで取り組んでいます。
 
 ## 🛠 Skills
 
-### Languages / Frameworks / Tools  
+### Languages / Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,nodejs,python,pytorch,fastapi,html,css,scss" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,github,githubactions,linux,vscode,figma,ai,md,mysql,next.js,react,nginx,notion,npm,postman,pug,tailwind,vercel,vim,wordpress,xd" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,nodejs,python,fastapi,pytorch,html,css,scss,react,nextjs" />
+</p>
+
+### AI / Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,mysql" />
+</p>
+
+### Infra / DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,azure,gcp,vercel" />
+</p>
+
+### Tools / Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,notion,figma,xd,ai,md" />
+</p>
+
+### Editors
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,vim" />
 </p>
 
 ---
