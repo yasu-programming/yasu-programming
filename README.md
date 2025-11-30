@@ -62,15 +62,18 @@ AI API を組み合わせた機能開発まで取り組んでいます。
 
 - **IT用語ポッドキャストメーカー（Python CLI）**  
   IT資格試験向け用語を AI で対話形式スクリプトに変換し、  
-  Google Cloud TTS により日本語音声ポッドキャストを自動生成。
+  Google Cloud TTS により日本語音声ポッドキャストを自動生成。  
+  <img src="images/audio_study.webp" alt="IT用語ポッドキャストメーカー" width="420">
 
 - **多言語学習プラットフォーム**  
   Google Cloud TTSを使って8言語のシチュエーション別
-  フレーズ音声・動画を生成する言語学習用FastAPIアプリケーション
+  フレーズ音声・動画を生成する言語学習用FastAPIアプリケーション  
+  <img src="images/language_study.webp" alt="多言語学習プラットフォーム" width="420">
 
 - **CSV → 動画生成ツール（自動化）**  
   CSV データを元に動画コンテンツを自動生成する Python スクリプト。  
-  教材動画・説明動画の自動作成を目的に開発。
+  教材動画・説明動画の自動作成を目的に開発。  
+  <img src="images/csv_to_video.webp" alt="CSVから動画生成ツール" width="420">
 
 - **ショート動画生成ツール**  
   YouTube Shorts、TikTok、Instagram Reels向けの縦型動画生成システム。
