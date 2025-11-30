@@ -9,13 +9,13 @@ AI API を組み合わせた機能開発まで取り組んでいます。
 ---
 
 ## 🛠 Skills
-- **Languages:** PHP, JavaScript, Python, HTML/CSS  
-- **Frameworks:** Laravel, Vue.js, Node.js, NestJS, FastAPI  
-- **Frontend:** Vue.js / Inertia / SPA 開発  
-- **Backend:** API 開発, 認証, DB 設計, バッチ処理  
-- **Infrastructure:** Docker, AWS(EC2/S3/Lambda)  
-- **Tools:** GitHub, GitHub Actions, OpenAI API, Google Apps Script  
-- **AI / LLM:** API 連携、プロンプト設計、Embeddings、音声生成、動画生成
+
+### Languages / Frameworks / Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nodejs,python,fastapi,html,css,scss" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,linux,vscode,figma" />
+</p>
 
 ---
 
